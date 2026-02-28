@@ -52,16 +52,6 @@ Lidero la <b>digitalización de rutas de transporte público</b> bajo el estánd
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=FiRS1247&theme=catppuccin_mocha&hide_border=true" width="49%" />
 
-  <br/><br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FiRS1247&theme=catppuccin_mocha" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FiRS1247&theme=catppuccin_mocha" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FiRS1247&theme=catppuccin_mocha" width="32%" />
-
-  <br/><br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=FiRS1247&theme=catppuccin_latte&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
-
 </div>
 
 ---
